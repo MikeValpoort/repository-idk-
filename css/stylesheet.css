@@ -1,0 +1,15 @@
+.flex-container {
+    display: flex;
+    justify-content: space-around;
+}
+.flex-container h1 {
+    margin-bottom: 0;
+    align-self: flex-end;
+}
+.flex-container #topPage2 {
+    justify-content: left;
+ 
+}
+.flex-container #topPage3 {
+justify-content: right;
+}
